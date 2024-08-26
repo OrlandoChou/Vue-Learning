@@ -14,6 +14,5 @@
 
 解压node_modules.zip
 
-命令行输入 npm run serve
-
+命令行输入 npm run serve 点击本地网站即可（http://localhost:8000）
 
