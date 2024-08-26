@@ -1,0 +1,20 @@
+{
+  "login": [
+    {
+      "username": "18005868136",
+      "password": "123456789"
+    },
+    {
+      "username": "john_doe",
+      "password": "password123"
+    },
+    {
+      "username": "jane_smith",
+      "password": "qwerty987"
+    },
+    {
+      "username": "alice_wonder",
+      "password": "alice2024"
+    }
+  ]
+}
